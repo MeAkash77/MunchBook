@@ -3,7 +3,7 @@ MunchBook
 
 ![Project Poster](https://i.ibb.co/67LCGfs9/Munch-Book.png)
 
-[Live Demo →](https://munchbook.vercel.app/)
+[Live Demo →](https://munch-book.vercel.app/)
 
 * * * * *
 <p align="center">
