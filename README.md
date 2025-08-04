@@ -10,7 +10,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI-blue?style=flat-square&logo=tailwindcss)
 ![Recharts](https://img.shields.io/badge/Recharts-Analytics-orange?style=flat-square&logo=chartdotjs)
 ![License](https://img.shields.io/github/license/yourusername/munchbook?style=flat-square)
-
+</p>
 
 ## ✨ Features
 
