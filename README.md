@@ -10,36 +10,6 @@
 ![Recharts](https://img.shields.io/badge/Recharts-Analytics-orange?style=flat-square&logo=chartdotjs)
 ![License](https://img.shields.io/github/license/yourusername/munchbook?style=flat-square)
 
-
-## ✨ Features
-### 📍 Restaurant Visit Tracking
-- Log visits with date, restaurant, and location
-- Add reviews and individual dish ratings
-- Quick logging from previous restaurants
-
-### 📊 Advanced Analytics Dashboard
-- Cuisines breakdown, visit frequency (day/month)
-- Bar & pie charts via MongoDB aggregation
-- Trends in ratings, top dishes, and places
-
-### 🔍 Smart Recommendation Engine
-- Suggestions based on:
-  - Past ratings & reviews
-  - Cuisine variety & gaps
-  - Time-based and seasonal trends
-
-### 📅 Visit History
-- Complete chronological log of visits
-- Filter by cuisine, rating, or restaurant
-
-### 👥 Multi-Group Support
-- Create and manage groups (e.g., Family, Friends)
-- Track shared dining experiences
-
-### 🌐 Fully Responsive Design
-- Optimized for desktop & mobile
-- Seamless adaptive navigation
-
 ---
 
 ## ⚙️ Tech Stack
