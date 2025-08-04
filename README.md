@@ -1,4 +1,6 @@
-# 🍽️ MunchBook
+<h1 align="center"> 🍽️ MunchBook - Decentralized Crowdfunding Platform</h1>
+
+<p align="center">
 
 **MunchBook** is a full-stack restaurant dining tracker and food review app tailored for food-loving families and groups. Track every delicious moment—from restaurant visits and dish reviews to smart meal recommendations and analytics that help shape your next culinary adventure.
 
