@@ -230,30 +230,6 @@ Built around normalized schemas for:
 
 * * * * *
 
-Screenshots
------------
-
-*Include screenshots here for:*
-
--   Dashboard
-
-![Dashboard](https://i.ibb.co/jCcvYxm/screencapture-munchbook-vercel-app-dashboard-2025-06-21-12-58-24.png)
-
--   Visit History Page
-
-![History](https://i.ibb.co/bMM3NgzV/screencapture-munchbook-vercel-app-history-2025-06-21-13-07-40.png)
-
--   Analytics Page
-
-![Analytics](https://i.ibb.co/RGHPFXQ9/screencapture-munchbook-vercel-app-analytics-2025-06-21-13-07-03.png)
-
--   Suggestions Output
-
-![Suggestions](https://i.ibb.co/s9XT2bB0/Screenshot-2025-06-21-130833.png)
-
-
-* * * * *
-
 How to Run Locally
 ------------------
 
@@ -273,13 +249,6 @@ License
 -------
 
 This project is licensed under the MIT License.
-
-* * * * *
-
-Contact
--------
-
-Built with passion by [Vandit Shah](https://vandit-shah.me). You can connect with me via [LinkedIn](https://linkedin.com/in/shah-vandit) or email at <shahvandit8@gmail.com>.
 
 * * * * *
 
