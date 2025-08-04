@@ -78,7 +78,7 @@
 MunchBook
 =========
 
-![Project Poster](https://i.ibb.co/67LCGfs9/Munch-Book.png)
+![Project Poster](https://github.com/user-attachments/assets/0344bb66-f0f2-4abd-8c64-2b1b0a20d685)
 
 [Live Demo →](https://munch-book.vercel.app/)
 
