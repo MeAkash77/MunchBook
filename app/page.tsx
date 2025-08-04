@@ -338,13 +338,13 @@ export default function LandingPage() {
 
           <div className="border-t border-slate-200 dark:border-slate-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-slate-600 dark:text-slate-300">
-              © 2025 MunchBook. All rights reserved. Project By{" "}
+              © 2025 MunchBook. (Akash) All rights reserved. Project By{" "}
               <a
                 className="text-orange-500"
-                href="https://vandit-shah.me/"
+                href="https://github.com/MeAkash77"
                 target="_blank"
               >
-                Vandit Shah
+                Akash
               </a>
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">

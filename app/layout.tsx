@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     "restaurant review log",
     "personal food tracker",
   ],
-  authors: [{ name: "Vandit Shah" }],
-  creator: "Vandit Shah",
+  authors: [{ name: "Akash" }],
+  creator: "Akash",
   metadataBase: new URL("https://munchbook.vercel.app"),
   openGraph: {
     title: "MunchBook | Track, Rate & Relive Your Food Adventures",
