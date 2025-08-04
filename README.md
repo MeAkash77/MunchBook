@@ -1,4 +1,4 @@
-<h1 align="center"> 🍽️ MunchBook - Decentralized Crowdfunding Platform</h1>
+<h1 align="center"> 🍽️ MunchBook </h1>
 
 <p align="center">
 
