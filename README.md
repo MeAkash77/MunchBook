@@ -2,7 +2,7 @@
 
 <p align="center">
 
-**MunchBook** is a full-stack restaurant dining tracker and food review app tailored for food-loving families and groups. Track every delicious moment—from restaurant visits and dish reviews to smart meal recommendations and analytics that help shape your next culinary adventure.
+<h1 align="center"> **MunchBook** is a full-stack restaurant dining tracker and food review app tailored for food-loving families and groups. Track every delicious moment—from restaurant visits and dish reviews to smart meal recommendations and analytics that help shape your next culinary adventure.<p align="center">
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-blue?style=flat-square&logo=nextdotjs)
