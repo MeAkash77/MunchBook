@@ -2,7 +2,6 @@
 
 **MunchBook** is a full-stack restaurant dining tracker and food review app tailored for food-loving families and groups. Track every delicious moment—from restaurant visits and dish reviews to smart meal recommendations and analytics that help shape your next culinary adventure.
 
----
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-blue?style=flat-square&logo=nextdotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
@@ -10,7 +9,6 @@
 ![Recharts](https://img.shields.io/badge/Recharts-Analytics-orange?style=flat-square&logo=chartdotjs)
 ![License](https://img.shields.io/github/license/yourusername/munchbook?style=flat-square)
 
----
 
 ## ✨ Features
 
@@ -75,30 +73,6 @@
   - Food Items
   - Visits
   - Groups & Users
-
----
-
-## 📸 Screenshots
-
-> (Add your images to `/public` folder and update the paths below)
-
-| Dashboard | Visit History | Analytics | Recommendations |
-|----------|----------------|-----------|------------------|
-| ![Dashboard](public/dashboard.png) | ![History](public/history.png) | ![Analytics](public/analytics.png) | ![Suggestions](public/suggestions.png) |
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/munchbook.git
-cd munchbook
-
-
-
-
-
 
 
 MunchBook
