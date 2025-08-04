@@ -25,26 +25,6 @@
 
 ---
 
-## 🧠 Key Technical Highlights
-
-### ⚡ MongoDB Aggregations
-- Top dishes by frequency & rating
-- Least visited cuisines
-- Weekly & monthly trends
-- Group-based historical insights
-
-### 💡 Smart Real-time Suggestions
-- Dynamic avoidance of repetitive cuisines
-- Diversity-based meal guidance
-
-### 🔩 Scalable Data Model
-- Normalized schemas for:
-  - Restaurants
-  - Food Items
-  - Visits
-  - Groups & Users
-
-
 MunchBook
 =========
 
@@ -75,6 +55,25 @@ MunchBook
 </p>
 
 * * * * *
+
+## 🧠 Key Technical Highlights
+
+### ⚡ MongoDB Aggregations
+- Top dishes by frequency & rating
+- Least visited cuisines
+- Weekly & monthly trends
+- Group-based historical insights
+
+### 💡 Smart Real-time Suggestions
+- Dynamic avoidance of repetitive cuisines
+- Diversity-based meal guidance
+
+### 🔩 Scalable Data Model
+- Normalized schemas for:
+  - Restaurants
+  - Food Items
+  - Visits
+  - Groups & Users
 
 Overview
 --------
