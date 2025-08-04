@@ -181,7 +181,7 @@ How to Run Locally
 ------------------
 
 ```
-git clone https://github.com/yourusername/munchbook.git
+git clone https://github.com/MeAkash77/MunchBook.git
 cd munchbook
 npm install
 
