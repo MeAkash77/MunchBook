@@ -1,3 +1,106 @@
+# 🍽️ MunchBook
+
+**MunchBook** is a full-stack restaurant dining tracker and food review app tailored for food-loving families and groups. Track every delicious moment—from restaurant visits and dish reviews to smart meal recommendations and analytics that help shape your next culinary adventure.
+
+---
+
+![Next.js](https://img.shields.io/badge/Next.js-14-blue?style=flat-square&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=flat-square&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI-blue?style=flat-square&logo=tailwindcss)
+![Recharts](https://img.shields.io/badge/Recharts-Analytics-orange?style=flat-square&logo=chartdotjs)
+![License](https://img.shields.io/github/license/yourusername/munchbook?style=flat-square)
+
+---
+
+## ✨ Features
+
+### 📍 Restaurant Visit Tracking
+- Log visits with date, restaurant, and location
+- Add reviews and individual dish ratings
+- Quick logging from previous restaurants
+
+### 📊 Advanced Analytics Dashboard
+- Cuisines breakdown, visit frequency (day/month)
+- Bar & pie charts via MongoDB aggregation
+- Trends in ratings, top dishes, and places
+
+### 🔍 Smart Recommendation Engine
+- Suggestions based on:
+  - Past ratings & reviews
+  - Cuisine variety & gaps
+  - Time-based and seasonal trends
+
+### 📅 Visit History
+- Complete chronological log of visits
+- Filter by cuisine, rating, or restaurant
+
+### 👥 Multi-Group Support
+- Create and manage groups (e.g., Family, Friends)
+- Track shared dining experiences
+
+### 🌐 Fully Responsive Design
+- Optimized for desktop & mobile
+- Seamless adaptive navigation
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer      | Technology                              |
+|------------|------------------------------------------|
+| 🖼️ Frontend | **Next.js 14**, **Tailwind CSS**, **ShadCN UI** |
+| 🧠 Backend  | **Next.js API Routes (Server Actions)** |
+| 🗄️ Database | **MongoDB + Mongoose**                 |
+| 🔐 Auth     | **Custom Token-based Authentication**   |
+| 📊 Charts   | **Recharts**                            |
+| 🚀 Hosting  | **Vercel**                              |
+
+---
+
+## 🧠 Key Technical Highlights
+
+### ⚡ MongoDB Aggregations
+- Top dishes by frequency & rating
+- Least visited cuisines
+- Weekly & monthly trends
+- Group-based historical insights
+
+### 💡 Smart Real-time Suggestions
+- Dynamic avoidance of repetitive cuisines
+- Diversity-based meal guidance
+
+### 🔩 Scalable Data Model
+- Normalized schemas for:
+  - Restaurants
+  - Food Items
+  - Visits
+  - Groups & Users
+
+---
+
+## 📸 Screenshots
+
+> (Add your images to `/public` folder and update the paths below)
+
+| Dashboard | Visit History | Analytics | Recommendations |
+|----------|----------------|-----------|------------------|
+| ![Dashboard](public/dashboard.png) | ![History](public/history.png) | ![Analytics](public/analytics.png) | ![Suggestions](public/suggestions.png) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/munchbook.git
+cd munchbook
+
+
+
+
+
+
+
 MunchBook
 =========
 
