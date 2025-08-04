@@ -32,7 +32,8 @@ MunchBook
 
 ![Project Poster](https://github.com/user-attachments/assets/d6a0d072-f0a3-44e6-b961-6f0bb9b3cb2c)
 
-![Project Poster](https://github.com/user-attachments/assets/3f38e4e6-5235-4978-a6b8-528d1c48f320,[Project Poster](https://github.com/user-attachments/assets/827570a1-12f4-4ba6-bc18-17dd11aa6893)
+![Project Poster](https://github.com/user-attachments/assets/3f38e4e6-5235-4978-a6b8-528d1c48f320)
+![Project Poster](https://github.com/user-attachments/assets/827570a1-12f4-4ba6-bc18-17dd11aa6893)
 
 
 [Live Demo →](https://munch-book.vercel.app/)
